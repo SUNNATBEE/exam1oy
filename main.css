@@ -1,0 +1,16 @@
+.inputs{
+    width: 300px;
+    border-radius: 50px;
+    border-color: red;
+    background-color: black;
+    color: blue;
+}
+::placeholder{
+    color: red;
+}
+.from{
+    width: 700px;
+    text-align: center;
+    background-color: blue;
+    border-radius: 50px;
+}
